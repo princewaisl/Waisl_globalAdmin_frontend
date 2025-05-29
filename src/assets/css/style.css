@@ -1,0 +1,7 @@
+.loginbg {
+  background-image: url("../background.jpg");
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
